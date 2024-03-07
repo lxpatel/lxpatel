@@ -60,11 +60,18 @@
   <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
-<br/><br/>
+<br/>
+
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://github.com/lxpatel/lxpatel/blob/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
 
 <hr/>
-
-
 
 <h3 align="center">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/patelalex1q"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="patelalex1q" /></a></p><br><br>
